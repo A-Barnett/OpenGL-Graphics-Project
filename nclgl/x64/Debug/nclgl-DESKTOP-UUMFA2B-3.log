@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (nclgl-DESKTOP-UUMFA2B-2.vcxproj, nclgl-DESKTOP-UUMFA2B.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GameTimer.cpp
+  Keyboard.cpp
+  Matrix2.cpp
+  Matrix3.cpp
+  Mesh.cpp
+C:\Users\Alex\OneDrive - Newcastle University\Graphics\nclgl\Mesh.cpp(440,13): error C2511: 'Mesh *Mesh::GenerateQuad(void)': overloaded member function not found in 'Mesh'
+      C:\Users\Alex\OneDrive - Newcastle University\Graphics\nclgl\Mesh.h(42,7):
+      see declaration of 'Mesh'
+  
+  MeshAnimation.cpp
+  MeshMaterial.cpp
+  Mouse.cpp
+  Plane.cpp
+  Quaternion.cpp
+  Generating Code...

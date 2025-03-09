@@ -1,0 +1,8 @@
+﻿  Camera.cpp
+C:\Users\Alex\OneDrive - Newcastle University\Graphics\nclgl\Camera.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Camera.cpp')
+  
+C:\Users\Alex\OneDrive - Newcastle University\Graphics\nclgl\Camera.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Camera.cpp')
+  
+  nclgl.vcxproj -> C:\Users\Alex\OneDrive - Newcastle University\Graphics\x64\Debug\nclgl.lib

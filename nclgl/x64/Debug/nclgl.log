@@ -1,0 +1,47 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (nclgl-DESKTOP-UUMFA2B-2.vcxproj, nclgl-DESKTOP-UUMFA2B.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+  Camera.cpp
+C:\Users\Alex\Graphics\Graphics\nclgl\Camera.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Camera.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\nclgl\Camera.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Camera.cpp')
+  
+  ComputeShader.cpp
+  CubeRobot.cpp
+C:\Users\Alex\Graphics\Graphics\nclgl\CubeRobot.cpp(8,64): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Alex\Graphics\Graphics\nclgl\CubeRobot.cpp(8,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Alex\Graphics\Graphics\nclgl\CubeRobot.cpp(8,52): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Frustum.cpp
+  GameTimer.cpp
+  HeightMap.cpp
+C:\Users\Alex\Graphics\Graphics\nclgl\HeightMap.cpp(23,57): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Alex\Graphics\Graphics\nclgl\HeightMap.cpp(23,40): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Alex\Graphics\Graphics\nclgl\HeightMap.cpp(24,48): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Alex\Graphics\Graphics\nclgl\HeightMap.cpp(24,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Alex\Graphics\Graphics\nclgl\HeightMap.cpp(63,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\Graphics\Graphics\nclgl\HeightMap.cpp(64,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\Graphics\Graphics\nclgl\HeightMap.cpp(66,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  HeightMapRaw.cpp
+C:\Users\Alex\Graphics\Graphics\nclgl\HeightMapRaw.cpp(34,56): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Alex\Graphics\Graphics\nclgl\HeightMapRaw.cpp(34,40): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Alex\Graphics\Graphics\nclgl\HeightMapRaw.cpp(35,48): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Alex\Graphics\Graphics\nclgl\HeightMapRaw.cpp(35,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Keyboard.cpp
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  Mesh.cpp
+  MeshAnimation.cpp
+  MeshMaterial.cpp
+  Mouse.cpp
+  OGLRenderer.cpp
+  Plane.cpp
+  Quaternion.cpp
+  SceneNode.cpp
+  Shader.cpp
+  Generating Code...
+  Compiling...
+  Window.cpp
+  Generating Code...
+  nclgl.vcxproj -> C:\Users\Alex\Graphics\Graphics\x64\Debug\nclgl.lib

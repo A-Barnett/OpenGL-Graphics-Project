@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (nclgl-DESKTOP-UUMFA2B.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HeightMap.cpp
+C:\Users\Alex\OneDrive - Newcastle University\Graphics\nclgl\HeightMap.cpp(22,57): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Alex\OneDrive - Newcastle University\Graphics\nclgl\HeightMap.cpp(22,40): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Alex\OneDrive - Newcastle University\Graphics\nclgl\HeightMap.cpp(23,48): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Alex\OneDrive - Newcastle University\Graphics\nclgl\HeightMap.cpp(23,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Alex\OneDrive - Newcastle University\Graphics\nclgl\HeightMap.cpp(60,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\OneDrive - Newcastle University\Graphics\nclgl\HeightMap.cpp(61,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\OneDrive - Newcastle University\Graphics\nclgl\HeightMap.cpp(63,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  nclgl.vcxproj -> C:\Users\Alex\OneDrive - Newcastle University\Graphics\x64\Debug\nclgl.lib

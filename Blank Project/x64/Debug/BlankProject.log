@@ -1,0 +1,1078 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lighthouse.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Blank Project.cpp
+C:\Users\Alex\Graphics\Graphics\nclgl\Camera.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\nclgl\Camera.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\WaterAttributes.h(26,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\WaterAttributes.h(62,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\WaterAttributes.h(62,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(18,30): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(18,20): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(18,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(19,30): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(19,20): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(19,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(20,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(20,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(21,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(21,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(21,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(22,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(22,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(22,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(23,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(23,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(23,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(24,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(24,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(24,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(25,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(25,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(25,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(26,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(26,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(26,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(27,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(27,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(27,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(28,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(29,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(29,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(29,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(30,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(30,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(31,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(31,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(32,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(32,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(33,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(33,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(34,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(34,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(34,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(35,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(35,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(35,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(36,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(36,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(36,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(37,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(37,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(37,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(38,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(38,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(38,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(39,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(39,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(39,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(40,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(40,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(41,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(41,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(41,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(42,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(42,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(42,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(43,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(43,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(43,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(44,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(44,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(44,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(45,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(45,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(45,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(46,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(46,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(46,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(47,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(47,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(47,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(48,25): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(48,17): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(49,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(49,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(49,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(50,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(50,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(50,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(51,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(51,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(51,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(52,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(52,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(52,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(53,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(53,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(53,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.h(204,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.h(207,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.h(228,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Blank%20Project.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\Blank Project.cpp(60,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:             _Ty1=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         ]
+  (compiling source file 'Blank%20Project.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(18,40):
+          see reference to function template instantiation 'std::pair<float,float>::pair<double,double,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=double,
+              _Other2=double
+          ]
+              C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(16,69):
+              see the first reference to 'std::pair<float,float>::pair' in 'CameraMove::CameraMove'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:             _Ty2=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         ]
+  (compiling source file 'Blank%20Project.cpp')
+  
+  Renderer.cpp
+C:\Users\Alex\Graphics\Graphics\nclgl\Camera.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\nclgl\Camera.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\WaterAttributes.h(26,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\WaterAttributes.h(62,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\WaterAttributes.h(62,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(18,30): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(18,20): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(18,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(19,30): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(19,20): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(19,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(20,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(20,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(21,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(21,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(21,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(22,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(22,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(22,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(23,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(23,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(23,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(24,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(24,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(24,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(25,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(25,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(25,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(26,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(26,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(26,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(27,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(27,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(27,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(28,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(29,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(29,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(29,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(30,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(30,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(31,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(31,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(32,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(32,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(33,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(33,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(34,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(34,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(34,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(35,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(35,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(35,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(36,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(36,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(36,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(37,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(37,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(37,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(38,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(38,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(38,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(39,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(39,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(39,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(40,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(40,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(41,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(41,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(41,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(42,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(42,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(42,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(43,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(43,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(43,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(44,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(44,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(44,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(45,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(45,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(45,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(46,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(46,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(46,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(47,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(47,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(47,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(48,25): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(48,17): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(49,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(49,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(49,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(50,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(50,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(50,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(51,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(51,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(51,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(52,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(52,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(52,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(53,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(53,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(53,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.h(204,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.h(207,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.h(228,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Renderer.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.cpp(13,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.cpp(13,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.cpp(14,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.cpp(14,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.cpp(14,123): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.cpp(235,45): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.cpp(263,90): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.cpp(348,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.cpp(448,82): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:             _Ty1=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         ]
+  (compiling source file 'Renderer.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(18,40):
+          see reference to function template instantiation 'std::pair<float,float>::pair<double,double,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=double,
+              _Other2=double
+          ]
+              C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(16,69):
+              see the first reference to 'std::pair<float,float>::pair' in 'CameraMove::CameraMove'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:             _Ty2=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         ]
+  (compiling source file 'Renderer.cpp')
+  
+  SceneNode.cpp
+C:\Users\Alex\Graphics\Graphics\nclgl\Camera.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\nclgl\Camera.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\WaterAttributes.h(26,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\WaterAttributes.h(62,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\WaterAttributes.h(62,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(18,30): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(18,20): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(18,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(19,30): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(19,20): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(19,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(20,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(20,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(21,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(21,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(21,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(22,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(22,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(22,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(23,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(23,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(23,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(24,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(24,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(24,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(25,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(25,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(25,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(26,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(26,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(26,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(27,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(27,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(27,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(28,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(29,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(29,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(29,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(30,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(30,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(31,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(31,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(32,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(32,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(33,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(33,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(34,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(34,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(34,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(35,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(35,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(35,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(36,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(36,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(36,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(37,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(37,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(37,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(38,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(38,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(38,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(39,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(39,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(39,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(40,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(40,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(41,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(41,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(41,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(42,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(42,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(42,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(43,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(43,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(43,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(44,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(44,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(44,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(45,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(45,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(45,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(46,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(46,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(46,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(47,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(47,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(47,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(48,25): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(48,17): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(49,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(49,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(49,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(50,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(50,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(50,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(51,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(51,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(51,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(52,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(52,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(52,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(53,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(53,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(53,11): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.h(204,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.h(207,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Users\Alex\Graphics\Graphics\Blank Project\Renderer.h(228,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'SceneNode.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:             _Ty1=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         ]
+  (compiling source file 'SceneNode.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(18,40):
+          see reference to function template instantiation 'std::pair<float,float>::pair<double,double,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=double,
+              _Other2=double
+          ]
+              C:\Users\Alex\Graphics\Graphics\Blank Project\CameraMove.h(16,69):
+              see the first reference to 'std::pair<float,float>::pair' in 'CameraMove::CameraMove'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:             _Ty2=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,54): warning C4244:         ]
+  (compiling source file 'SceneNode.cpp')
+  
+  Generating Code...
+  BlankProject.vcxproj -> C:\Users\Alex\Graphics\Graphics\x64\Debug\Blank Project.exe
